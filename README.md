@@ -11,4 +11,4 @@
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sabillahsakti)
-- [Email](https://mailto:sabilajja63@gmail.com)
+- [Email](mailto:sabilajja63@gmail.com)

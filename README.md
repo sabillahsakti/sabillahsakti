@@ -1,6 +1,6 @@
 # Hi, I'm Sabil 👋
 
-🚀 **Copy-Paster Specialist**  
+🚀 **Copy-Paste Specialist**  
 📚 Striving for code that works, one copy at a time.  
 🔧 Crafting solutions from snippets and turning problems into functions.
 

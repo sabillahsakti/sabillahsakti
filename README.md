@@ -12,6 +12,3 @@
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sabillahsakti)
 - [Email](mailto:sabilajja63@gmail.com)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabillahsakti&theme=chartreuse-dark&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sabillahsakti&layout=compact)
